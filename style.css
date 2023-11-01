@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #6c63ff;
-    --secondary-color: #f5f2fe;
+    --primary-color: #df41d7;
+    --secondary-color: #f5c8d9;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -18,10 +18,13 @@ h3 {
 
 h1 {
     font-size: 96px;
+    
 }
 
 h2 {
-    font-size: 48px;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
 }
 
 h3 {
